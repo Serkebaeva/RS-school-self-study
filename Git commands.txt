@@ -14,3 +14,13 @@ git branch develop (creating new branch as "develop")
 
 git checkout develop (switching to develop branch)
 
+git push
+
+MERGE
+In github - create a new PullRequest (PullRequests--> New PullRequest)(We choose to which branch from which branch we want to merge)
+So, we want changes into the Main branch from develop,
+So, choose Main-Develop(message will come out "Able to Merge")
+--> Create Pull Request with comment what youhave done...
+
+Then --> Select the PullRequest and Merge. 
+
