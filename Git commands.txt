@@ -1,0 +1,16 @@
+LS
+Git INIT
+
+git status
+git add .
+
+git commit -m "message"
+
+git diff (to know difference of changes)
+
+git log (History of commits)
+
+git branch develop (creating new branch as "develop")
+
+git checkout develop (switching to develop branch)
+
